@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4587ed7a93c292f499c5795eb6693910, type: 3}
+  m_Name: Blue-Eyes White Dragoon
+  m_EditorClassIdentifier: 
+  cardType: 0
+  cardName: Blue-Eyes White Dragoon
+  spellType: 0
+  monsterType: 2
+  trapType: 0
+  cardAttribut: 0
+  monsterSpecie: SpellCaster
+  cardText: DRAGOON NOT ONCE PER TURN. UNAFFECTED BY CARD EFFECT KONAMI PLS XD.
+  atk: 3000
+  def: 2500
+  levelRank: 7
+  cardIMG: {fileID: 2800000, guid: a83c4b85d554c2a4789b4fc6571a8981, type: 3}
+  artwork: {fileID: 0}
